@@ -1,0 +1,15 @@
+.pacifico-regular {
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+*{
+    font-family: "Pacifico", cursive;
+    font-size: large;
+}
+main{
+    background-color: black;
+}
+header{
+    background-color: black;
+}

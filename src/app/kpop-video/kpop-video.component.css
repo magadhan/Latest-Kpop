@@ -1,0 +1,26 @@
+.listing{
+    list-style: none;
+    border: 1px solid grey;
+    box-shadow: 10px 10px;
+    /* box-shadow: 2px 2px 4px black; */
+    width: 45%;
+    height: 45%;
+    border-radius: 10px;
+    padding: 20px 20px;
+    display: inline-block;
+    margin: 9px;
+    margin-top: 20px;
+    text-align: center;
+    background-color: hwb(177 86% 0%);
+    transform: scale(.9);
+    transition: .4s;
+}
+.listing-photo{
+    width: 30%;
+    height: 50%;
+    padding-top: 20px;
+}
+.listing-heading{
+    display: flex;
+    justify-content: center;
+}
